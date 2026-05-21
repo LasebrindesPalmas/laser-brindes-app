@@ -1,0 +1,16 @@
+{
+  "name": "Laser Brindes Palmas",
+  "short_name": "LBP",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#d4a017",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
